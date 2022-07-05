@@ -1,0 +1,2 @@
+# Player-value-prediction-AND-Player-level-classification
+Machine learning project that predicts the value of a football player based on some features, and classify his level. Using this dataset for value prediction --> https://drive.google.com/file/d/1teKv1DGurcoDEmw93YBfTHUF8Z8suukV/view?usp=sharing and this one for level classification --> https://drive.google.com/file/d/14hSaFY_-VsryDFxUGXCTBq1VzJJSu8aY/view?usp=sharing
