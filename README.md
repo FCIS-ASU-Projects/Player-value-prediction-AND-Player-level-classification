@@ -2,7 +2,7 @@
 - Machine learning project that includes two different tasks.
    - First one was Regression proplem our mission is to predict the value of a football player based on some features.
    - Second one was Classification proplem, we used in it the same dataset but with different target column to classify player's level.
-   - 
+     
 - Ridge Regression model was the best in Regression proplem with Test accuracy=0.965.
 - XGBoost was the best model in classification proplem with Test accuracy = 0.9613.
   
