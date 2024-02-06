@@ -1,8 +1,15 @@
-# Player-value-prediction-AND-Player-level-classification
-- Machine learning project that predicts the value of a football player based on some features, and classify his level. 
+# Player value prediction & level classification.
+- Machine learning project that includes two different tasks.
+   - First one was Regression proplem our mission is to predict the value of a football player based on some features.
+   - Second one was Classification proplem, we used in it the same dataset but with different target column to classify player's level.
+   - 
+- Ridge Regression model was the best in Regression proplem with Test accuracy=0.965.
+- XGBoost was the best model in classification proplem with Test accuracy = 0.9613.
+  
+- [Regression dataset](https://drive.google.com/file/d/1teKv1DGurcoDEmw93YBfTHUF8Z8suukV/view?usp=sharing)
+- [Classification dataset](https://drive.google.com/file/d/14hSaFY_-VsryDFxUGXCTBq1VzJJSu8aY/view?usp=sharing)
+- [For more info about preprocessing and models used](https://docs.google.com/document/d/1p0splukD_zdjP6J_i5aU6UZEkJ_pGpXl/edit?usp=sharing&ouid=106079742361906471335&rtpof=true&sd=true)
 
-- Using this dataset for value prediction --> https://drive.google.com/file/d/1teKv1DGurcoDEmw93YBfTHUF8Z8suukV/view?usp=sharing and this one for level classification --> https://drive.google.com/file/d/14hSaFY_-VsryDFxUGXCTBq1VzJJSu8aY/view?usp=sharing
 
-- Predicting player value with cross validation=1089362.915462453 and test accuracy=0.9659665710951.
 
-- Classifying player leve with training accuracy=1.0 and testing accuracy = 0.9613644274277758.
+
